@@ -2,6 +2,7 @@ Making a version of the game Tetris, as project of Object-Oriented Programming -
 
 
 Classe GameScreen
+
 	atributos: 
 		private final lolo -> personagem principal.
 		private final elemArray -> objetos na tela de jogo (com lógica de colisão e etc.).
@@ -25,6 +26,7 @@ Classe GameScreen
 	    	- no método isValidPosition.
 
 Classe GameController
+
 	atributos: não tem
 
 	métodos:
